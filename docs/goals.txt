@@ -3,6 +3,9 @@ Created Tue Jul 16 15:09:16 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+Goals for scripting
+
+
 The primary goal of scripting virtualbox is the 
 automated startup, shutdown, of virtualbox and 
 any associated machines in a completely automated
