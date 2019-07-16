@@ -7,3 +7,12 @@ Filelist
 ========
 goals.txt
   Goals for scripting
+
+  The primary goal of scripting virtualbox is the
+  automated startup, shutdown, of virtualbox and
+  any associated machines in a completely automated
+  fashion.  i.e. Logout walk way and all is good.
+
+  Automated started in the morning is highly
+  desirable.
+
