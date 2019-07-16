@@ -14,3 +14,5 @@ links.txt
 scripting.txt
   Scripting in VirtualBox
 
+src/
+  Source code
