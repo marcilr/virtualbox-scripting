@@ -1,0 +1,16 @@
+goals.txt
+Created Tue Jul 16 15:09:16 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+The primary goal of scripting virtualbox is the 
+automated startup, shutdown, of virtualbox and 
+any associated machines in a completely automated
+fashion.  i.e. Logout walk way and all is good.
+
+Automated started in the morning is highly 
+desirable.
+
+Being on windows 10 this means using the equivilent
+of whatever a windows cron job is.
+
