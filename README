@@ -11,6 +11,9 @@ docs/
 links.txt
   Scripting in VirtualBox related links
 
+manifest
+  Manifest for resync application
+
 scripting.txt
   Scripting in VirtualBox
 
