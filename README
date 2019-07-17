@@ -16,3 +16,7 @@ scripting.txt
 
 src/
   Source code
+
+tex/
+  VirtualBox Scripting LaTeX documentation
+  
